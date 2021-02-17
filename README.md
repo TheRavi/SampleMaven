@@ -1,1 +1,1 @@
-# SampleMaven
+# Sample Maven
